@@ -1,7 +1,7 @@
 # Brain Augmented Decorrelated Network (BrainADNet) 
 
-Major Depressive Disorder (MDD) poses a signif-
-icant neurological challenge. The establishment of an accurate
+Major Depressive Disorder (MDD) poses a significant 
+neurological challenge. The establishment of an accurate
 diagnostic model for individuals with MDD, particularly those
 experiencing varying episodes, is a critical yet challenging task,
 given that treatment and medication protocols differ substantially
