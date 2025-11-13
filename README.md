@@ -4,3 +4,6 @@ Major Depressive Disorder (MDD) is a leading global neuropsychiatric disorder, r
 
 <br/>
 <img width="16384" height="6290" alt="BrainADNet_framework" src="https://github.com/user-attachments/assets/fd8f166d-e16c-477d-9053-bb1c7baf07ca" />
+
+[![DOI](https://zenodo.org/badge/890204802.svg)](https://doi.org/10.5281/zenodo.17598470)
+
