@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yusuf"
+  given-names: "Mohammad"
+  orcid: "https://orcid.org/0009-0000-6017-238X"
+title: "BrainADNet"
+version: 1.0.1
+doi: 10.5281/zenodo.17640606
+date-released: 2025-11-18
+url: "https://doi.org/10.5281/zenodo.17640606"
